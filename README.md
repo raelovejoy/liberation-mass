@@ -4,14 +4,19 @@
 
 Liberation Mass is not a church, not a cult, not a festival. It is a **gathering of souls** to practice radical empathy, celebrate reality and science, plan collective action, and imagine new worlds together. This README is intentionally **long and expansive**, offering everything you need to know in one place — so you don’t have to click around to piece it together.
 
+For quick questions, see the FAQs:
+
+* [General Audience FAQ](FAQ-General.md) → friendly intro for newcomers.
+* [Objections FAQ](FAQ-Objections.md) → responses to skepticism and hostile questions.
+
 ---
 
 ## 🌑 What is Liberation Mass?
 
 Liberation Mass has **two faces**:
 
-* **The Commons** → coalition-style gatherings to share testimonies, coordinate, and plan collective action.
-* **The Rite** → ritual-style gatherings of chants, art, science, music, dance, healing, and joy.
+* **The Commons** → coalition-style gatherings to share testimonies, coordinate, and plan collective action. (See [Commons Agenda](#commons-agenda).)
+* **The Rite** → ritual-style gatherings of chants, art, science, music, dance, healing, and joy. (See [Rite Agenda](#rite-agenda).)
 
 Together, Commons and Rite form a cycle: **Commons → Rite → Commons**. The Commons provides direction and solidarity; the Rite provides energy, healing, and connection.
 
@@ -23,17 +28,17 @@ Together, Commons and Rite form a cycle: **Commons → Rite → Commons**. The C
 
 ## 🦋 Principles
 
-* **Souls, not attendees** → everyone present is a soul, equal in dignity.
+* **Souls, not attendees** → everyone present is a soul, equal in dignity. (See [Glossary](#-glossary).)
 * **Radical hospitality & empathy (with boundaries)** → all who come in good faith are welcome; harm is addressed.
-* **Consent & exit** → opt-in for touch/photos/participation; leaving is always okay.
-* **Access** → quiet spaces, seating, captions/printouts; access notes required.
+* **Consent & exit** → opt-in for touch/photos/participation; leaving is always okay. (See [Safety](#-safety).)
+* **Access** → quiet spaces, seating, captions/printouts; access notes required. (See [Spaces](#-spaces).)
 * **Science & reality** → celebrate truth-seeking; distinguish reality from artificial "real world."
 * **Anti-denial & accountability** → name harm, compost it into repair.
-* **Mutual aid & reciprocity** → help each other meet needs, redistribute resources.
-* **Decentralization** → rotating roles, local autonomy, remixable content.
+* **Mutual aid & reciprocity** → help each other meet needs, redistribute resources. (See [Mutual Aid Space](#-spaces).)
+* **Decentralization** → rotating roles, local autonomy, remixable content. (See [Roles & Rotations](#-roles--rotations).)
 * **Anti-profit** → sliding-scale, transparency, mutual aid first.
-* **License** → CC0 so ideas remain in the commons.
-* **No leaders, only stewards** → roles share work, not power.
+* **License** → [CC0 1.0](LICENSE) so ideas remain in the commons.
+* **No leaders, only stewards** → roles share work, not power. (See [No Leaders, Only Stewards](#-no-leaders-only-stewards).)
 
 Applies to both Commons and Rite.
 
@@ -51,6 +56,8 @@ Liberation Mass is both **Commons** and **Rite**, two faces of one whole.
 * Planning across tracks: policy, grassroots safety, coordination.
 * Inspired by models like Flagstaff Community Coalition.
 
+See [Commons Agenda](#commons-agenda).
+
 ### Rite (Mass mode)
 
 * Invocation chants and music.
@@ -59,6 +66,8 @@ Liberation Mass is both **Commons** and **Rite**, two faces of one whole.
 * Communion through shared food and acts of repair.
 * Closing benediction (e.g., *No gods, no masters, only us*).
 * Inspired by radical cultural events like Wrecking Ball.
+
+See [Rite Agenda](#rite-agenda).
 
 ### Cycle
 
@@ -72,12 +81,12 @@ Liberation Mass has **no fixed leaders**. Roles rotate seasonally, with at least
 
 * **Guides** — facilitate flow, open and close gatherings.
 * **Weavers** — outreach, connection, cross-pollination.
-* **Stewards** — safety, consent, access, aftercare.
+* **Stewards** — safety, consent, access, aftercare. (See [Safety](#-safety).)
 * **Witnesses** — hold space for testimonies.
 * **Wolves** — convene trainings and skillshares.
 * **Ravens** — experienced advisors, offering insight without holding power.
 
-Roles are not authority; they are shared care.
+Roles are not authority; they are shared care. (See [No Leaders, Only Stewards](#-no-leaders-only-stewards).)
 
 ---
 
@@ -95,7 +104,7 @@ Liberation Mass is an ecosystem of spaces:
 * **Spiritual-but-Not Space** — altar, science as sacred, meaning rituals.
 * **Kids & Families Space** — childcare, art, radical play.
 * **Food & Nourishment Space** — potlucks, tea, shared meals.
-* **Conflict & Mediation Space** — restorative process, de-escalation.
+* **Conflict & Mediation Space** — restorative process, de-escalation. (See [Safety](#-safety).)
 * **Archive Space** — zines, testimonies, memory wall.
 
 Souls flow freely between spaces; no path is mandatory.
@@ -111,6 +120,8 @@ Safety applies to both Commons and Rite.
 * **Stewards** — rotating care roles, de-escalation basics, med kit.
 * **Aftercare** — guidance for participants and hosts on decompression and follow-up.
 * **Sensitive info** — never post operational details publicly; use encrypted channels.
+
+For related Q\&A, see the [Accessibility & Safety section in the FAQ](FAQ-General.md#5-accessibility--safety).
 
 ---
 
@@ -130,8 +141,8 @@ Safety applies to both Commons and Rite.
 
 1. Invocation chant/music
 2. Testimonies + witness response
-3. Ritual modules (science rite, compost ritual, etc.)
-4. Communion (food, repair, planting)
+3. Ritual modules (science rite, compost ritual, etc.) (See [Modules](#-modules).)
+4. Communion (food, repair, planting) (See [Spaces](#-spaces).)
 5. Dance / drag / performance
 6. Closing benediction
 
@@ -144,20 +155,20 @@ Optional add-ons to enrich gatherings:
 * **Science & Reality Rite** — stars, microscopes, resonance.
 * **Wrecking Ball** — queer/abolitionist dance fundraiser.
 * **Compost Rite** — grief to soil ritual.
-* **Self-Defense Dojo** — martial arts basics as embodied safety.
-* **Zinefest** — print & share radical media.
+* **Self-Defense Dojo** — martial arts basics as embodied safety. (See [Safety](#-safety).)
+* **Zinefest** — print & share radical media. (See [Archive Space](#-spaces).)
 
 ---
 
 ## 📖 Glossary
 
 * **Souls** — participants; equals in dignity.
-* **Commons** — coalition/planning mode.
-* **Rite** — ritual/celebration mode.
-* **Stewards** — rotating caretakers of safety, consent, access.
+* **Commons** — coalition/planning mode. (See [Commons Agenda](#commons-agenda).)
+* **Rite** — ritual/celebration mode. (See [Rite Agenda](#rite-agenda).)
+* **Stewards** — rotating caretakers of safety, consent, access. (See [Roles & Rotations](#-roles--rotations).)
 * **Roles** — guides, weavers, witnesses, wolves, ravens.
-* **Spaces** — healing, growth, being, etc.
-* **Modules** — optional rituals or add-ons.
+* **Spaces** — healing, growth, being, etc. (See [Spaces](#-spaces).)
+* **Modules** — optional rituals or add-ons. (See [Modules](#-modules).)
 
 ---
 
@@ -178,7 +189,7 @@ Liberation Mass is one branch of the **Living Spectrum** — an ecosystem of int
 
 * **Abolition & anarchism** → non-hierarchy, mutual aid, liberation.
 * **Solarpunk** → regenerative, ecological, imaginative futures.
-* **Root Sequence philosophy** → life, death, compost, rebirth cycles.
+* **Root Sequence philosophy** → life, death, compost, rebirth cycles. (See the [Root Sequence project](../root-sequence/README.md).)
 
 It is both **practical** (planning, safety, campaigns) and **poetic** (ritual, music, healing, science as sacred).
 
@@ -190,6 +201,8 @@ It is both **practical** (planning, safety, campaigns) and **poetic** (ritual, m
 * **Contribute** → add modules, chants, guides, zines.
 * **Join/fork nodes** → create your own local variant.
 * **Share back** → publish learnings, art, zines, or rituals.
+
+For more guidance, see the [Hosting & Growth section in the FAQ](FAQ-General.md#6-hosting--growth).
 
 Liberation Mass belongs to everyone. Take what you need, leave what you can.
 
