@@ -12,7 +12,7 @@ For quick questions, see the FAQs:
 ---
 
 
-For detailed guides, templates, and additional resources, see the [\U0001f4c2 Docs Overview](docs/README.md).
+For detailed guides, templates, and additional resources, see the [\Docs Overview](docs/README.md).
 
 
 ---
