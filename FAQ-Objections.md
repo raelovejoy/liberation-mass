@@ -1,80 +1,77 @@
-# Liberation Mass — Common Objections FAQ
+# Liberation Mass — Objections FAQ
 
-This document addresses likely concerns and objections about Liberation Mass, especially from conservative, far-right, or skeptical audiences.
-
----
-
-## ❓ Isn’t this just a “woke” church?
-
-**No.** Liberation Mass is not a church, a religion, or a cult. It’s a gathering space where people share food, ideas, art, and care. The “mass” part is a metaphor: a collective ritual of solidarity, rooted in reality and science, not dogma.
-
-We don’t seek to convert anyone; we invite participation in open, consent-based ways.
+This FAQ responds to common objections or suspicions people may have about Liberation Mass. The goal is clarity: explaining why we use the words we use, what Liberation Mass is *not*, and what it actually offers.
 
 ---
 
-## ❓ Why all the focus on liberation?
+## 🕷️ Isn’t this just a "woke church"?
 
-Because too many people and communities are trapped by systems of domination — economic, political, social, and ecological. Liberation Mass is about creating spaces where we can breathe, connect, and imagine better futures together.
-
----
-
-## ❓ Are you anti-Christian / anti-religion?
-
-No. People of any (or no) faith are welcome. We honor science, reality, and lived experience. We also recognize that spiritual traditions, including Christianity, have both harmed and healed. Liberation Mass does not tell anyone what to believe; it focuses on shared dignity, consent, and connection.
+**No.** Liberation Mass is not a church, not a religion, and not a cult. It’s simply a gathering framework where people share food, ideas, art, and care. The word *mass* is used in its everyday sense: a coming together of many people. There are no doctrines, no conversions, and no leaders to obey.
 
 ---
 
-## ❓ Why talk about oppression? Doesn’t that just divide people?
+## 🕷️ Why use words like "mass," "invocation," or "communion"?
 
-Naming harm is the first step toward healing. Pretending oppression doesn’t exist doesn’t make it go away — it just protects those who benefit from it. Liberation Mass is about creating accountability and care, not blame.
+Because words shape how we experience gathering. These words help create a sense of shared meaning. But here, they’re **reclaimed and redefined**:
 
----
+* **Mass** = a large gathering, a critical mass of people. Not religion.
+* **Invocation** = an opening gesture that helps us arrive together.
+* **Communion** = sharing food, water, or seeds; nothing supernatural.
 
-## ❓ Is this anti-capitalist?
-
-We are openly critical of systems — including capitalism — that exploit people and the planet. That doesn’t mean we hate small businesses, workers, or everyday people trying to get by. Our critique is aimed at domination and harm, not at individuals surviving within it.
-
----
-
-## ❓ Why are you against hierarchy? Don’t groups need leaders?
-
-We practice decentralization: rotating roles, collective responsibility, and accountability. Leadership here means service, not domination. No one should hold power over others indefinitely.
+We use language that feels familiar but strip it of hierarchy or dogma. It’s about connection, not control.
 
 ---
 
-## ❓ Isn’t this just leftist politics disguised as community?
+## 🕷️ Is this anti-Christian or anti-religion?
 
-Everything is political because power affects our lives. Liberation Mass isn’t a partisan campaign or a protest rally — it’s a community practice of care, mutual aid, and joy. If that looks “political,” it’s because dignity and justice matter.
-
----
-
-## ❓ What about free speech? Can conservatives participate?
-
-Yes — if they come in good faith, with respect for consent, dignity, and safety. We welcome dialogue, but not harassment, hate, or domination. Free speech is not a free pass to cause harm.
+No. People of any (or no) faith are welcome. Some participants may bring spiritual traditions with them; others may bring none. Liberation Mass respects both. Its foundation is dignity, consent, and connection.
 
 ---
 
-## ❓ Why use words like “souls,” “mass,” or “ritual”?
+## 🕷️ Is this a cult?
 
-Because human beings have always used ritual, art, and story to create meaning. These words connect to history and emotion, but we redefine them in liberatory, secular, and inclusive ways. They are metaphors, not mandates.
+Absolutely not. Cults rely on secrecy, control, and coercion. Liberation Mass is the opposite:
+
+* Participation is always opt-in.
+* Leaving is always allowed.
+* Roles rotate.
+* Transparency and decentralization are built in.
+
+There is no single leader, no doctrine, no demand for obedience.
 
 ---
 
-## ❓ Is this a cult?
+## 🕷️ Is this just leftist, communist politics in disguise?
 
-Absolutely not. Cults demand obedience, secrecy, and control. Liberation Mass emphasizes consent, exit at any time, decentralization, transparency, and accountability. The opposite of cult dynamics.
+Everything is political because power shapes daily life. But Liberation Mass is not a political party or campaign. It’s about practicing dignity, care, and mutual aid in community. If that feels “political,” it’s only because human dignity itself has been politicized.
+
+And yes, Liberation Mass is technically anarchist in nature — but by anarchism we don’t mean chaos or violence. We mean self-organization without hierarchy: people caring for each other directly, sharing responsibility, and rotating roles instead of handing power to permanent leaders. To us, anarchism simply means trust in people’s ability to cooperate, respect consent, and solve problems together without domination. It’s about freedom with responsibility, and connection without coercion.
 
 ---
 
-## ❓ Why should I care?
+## 🕷️ Why focus on liberation at all?
 
-Because we all deserve spaces where dignity, care, and joy are not conditional. Because systems that divide and dominate can be resisted — not just by protest, but by living otherwise together. Liberation Mass is one way to practice that.
+Because many people and communities are held back by unjust systems — economic, social, or environmental. Liberation Mass is one way to practice freedom and solidarity in everyday life. It’s not about abstract ideology; it’s about practical care.
+
+---
+
+## 🕷️ What about free speech? Can conservatives come?
+
+Yes, if they come in good faith, with respect for consent, dignity, and safety. Dialogue is welcome. Harassment or hate is not. Free speech doesn’t mean freedom to cause harm.
+
+---
+
+## 🕷️ So why should I care?
+
+Because everyone deserves spaces where care, dignity, and joy are unconditional. Liberation Mass offers a rhythm of **planning and connecting, acting and replenishing**, so communities don’t burn out and individuals don’t feel isolated.
+
+It’s not about conversion. It’s about creating an open commons anyone can adapt.
 
 ---
 
 ### Quick-Use Notes
 
-* **Tone:** Firm, kind, non-defensive.
-* **Invite:** “If you come in good faith, you’re welcome.”
-* **Boundaries:** “Consent, safety, and dignity are non‑negotiable.”
-* **Exit:** “Participation is opt‑in; leaving is always okay.”
+* **Tone:** Plain, clear, non-defensive.
+* **Invite:** "If you come in good faith, you’re welcome."
+* **Boundaries:** Consent, safety, and dignity are non-negotiable.
+* **Exit:** Participation is always optional; leaving is always okay.

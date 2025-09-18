@@ -1,6 +1,6 @@
 # Liberation Mass — FAQ (General Audience)
 
-**Looking for responses to hostile or skeptical questions (e.g., conservative/right-wing objections)? See the [Objections FAQ](FAQ-Objections.md).**
+**Looking for responses to hostile or skeptical questions? See the [Objections FAQ](FAQ-Objections.md).**
 
 This document answers common questions from people who are curious about Liberation Mass but may not be familiar with its language or ideas.
 
@@ -10,36 +10,39 @@ This document answers common questions from people who are curious about Liberat
 
 ### ❓ What is Liberation Mass?
 
-Liberation Mass is a community gathering. It’s a space where people share food, ideas, art, and care. Think of it like a mix between a community dinner, a skillshare, and a festival — with a touch of ritual to help us feel connected. *(See also [Participation](#2-participation) for how you can be involved.)*
+Liberation Mass is a **community gathering framework**. It brings people together to share food, ideas, art, and care while also coordinating practical support. Think of it as a mix between a community dinner, a planning meeting, and a cultural event. Some groups include symbolic elements (like an opening or closing), but there are no required beliefs.
+*(See the [README](README.md) for a full overview.)*
 
 ### ❓ Why call it a “Mass”? Isn’t that religious?
 
-We use the word “mass” as a metaphor — it means a large gathering, a coming together. It’s not tied to any religion. We borrow the language of ritual because humans everywhere use ritual to create meaning and connection. *(See also [Community & Values](#3-community--values) for guiding principles.)*
+We use the word **mass** in its everyday sense: *a gathering of many people*. It’s not religious, and there are no doctrines to believe. We borrow familiar words like "mass" or "invocation" because they help set tone and meaning, but we redefine them in secular, open ways.
+*(See also [Community & Values](#3-community--values) and [Objections FAQ](FAQ-Objections.md).)*
 
 ### ❓ Do I have to believe in anything to participate?
 
-Nope. People of any faith or no faith are welcome. Liberation Mass is about dignity, consent, and connection. You bring your own beliefs — or none — and that’s respected.
+No. People of any faith or no faith are welcome. Liberation Mass is about dignity, consent, and connection. You bring your own beliefs — or none — and that’s respected.
 
 ### ❓ What actually happens at a Liberation Mass?
 
-The flow can vary, but usually includes:
+The flow can vary, but often includes:
 
-* **Invocation** — an opening to set the tone.
-* **Witnessing** — space for short stories, reflections, or readings.
-* **Skillshare/Teaching** — a practical demo or shared knowledge.
-* **Communion** — sharing food, water, or seeds.
-* **Art & Dance** — music, performance, creativity.
-* **Closing** — gratitude, next steps, goodbyes.
+* **Welcome & Opening (Invocation)** — something to set the tone.
+* **Stories & Sharing (Witnessing)** — short testimonies, poems, or reflections.
+* **Skillshare / Teaching** — a practical demo or shared knowledge.
+* **Meal or Exchange (Communion)** — sharing food, water, seeds, or resources.
+* **Music / Art** — performance, dance, or creative expression.
+* **Closing** — gratitude, reflection, or next steps.
 
-*(See also [Food & Families](#4-food--families) and [Accessibility & Safety](#5-accessibility--safety) for more details on meals and spaces.)*
+*(See also [Food & Families](#4-food--families), [Accessibility & Safety](#5-accessibility--safety), and [Gathering Agenda](README.md#gathering-agenda).)*
 
 ### ❓ How often do gatherings happen?
 
-It depends on the community. Some groups meet monthly, others seasonally, and others only when the need or energy arises. The rhythm is set by the people involved.
+It depends on the community. Some groups meet monthly, others seasonally, others when there is a need. The rhythm is set locally.
 
 ### ❓ Do I need to prepare anything before attending?
 
-No preparation required. Just come as you are. If you’d like, you can bring food, a poem, a song, or simply an open heart. *(See [Participation](#2-participation) for ways to engage.)*
+No preparation is required. Come as you are. If you like, you can bring food, art, or simply yourself.
+*(See [Participation](#2-participation) for details.)*
 
 ---
 
@@ -47,31 +50,31 @@ No preparation required. Just come as you are. If you’d like, you can bring fo
 
 ### ❓ Who can come?
 
-Anyone who comes in good faith and respects consent and safety. Families, individuals, newcomers, old friends — all are welcome. *(See [Accessibility & Safety](#5-accessibility--safety) for expectations.)*
+Anyone who comes in good faith and respects consent and safety. Families, individuals, newcomers, and old friends are all welcome — though see [Food & Families](#4-food--families) for notes on kids.
 
 ### ❓ What if I’m shy or just want to watch?
 
-That’s completely fine. Participation is always opt-in. You can sit back, listen, eat, and leave whenever you want. No pressure.
+That’s completely fine. Participation is always opt-in. You can sit back, listen, and leave when you wish.
 
 ### ❓ Do I have to perform, teach, or speak?
 
-Not at all. Some people like to share art, skills, or stories; others prefer to listen and participate quietly. All roles are valued. Simply being present is contribution enough.
+Not at all. Sharing is welcome but never required. Some people like to share art, skills, or stories; others prefer to listen and participate quietly. All roles are valued. Simply being present is contribution enough.
 
 ### ❓ Does it cost money?
 
-No. We share what we have. Sometimes people bring food, art, or resources; sometimes they just bring themselves. All are welcome. *(See [Food & Families](#4-food--families) for more on meals.)*
+No. People contribute what they can — food, art, or time — but money is never required.
 
 ### ❓ Do I have to RSVP?
 
-Some groups may ask for RSVPs to plan food or space, but generally, gatherings are open. If you’re unsure, check the announcement or ask the organizers.
+Sometimes yes, if food or space needs planning. Otherwise, gatherings are usually open. Check with organizers.
 
 ### ❓ Can I bring a friend?
 
-Absolutely. Invite anyone you think would benefit from a welcoming, liberatory space.
+Absolutely. Bring anyone who would benefit from a welcoming, supportive space.
 
 ### ❓ What should I wear?
 
-Whatever makes you comfortable. Some people dress casually, others bring expressive or creative outfits. There’s no dress code.
+There is no dress code. People dress casually, creatively, expressively, or sometimes choose not to wear clothing at all. What matters is consent and respect: everyone has the right to comfort, boundaries, and safety. 
 
 ---
 
@@ -79,27 +82,27 @@ Whatever makes you comfortable. Some people dress casually, others bring express
 
 ### ❓ Why do you focus on “liberation”?
 
-Because too many systems hold people back — whether through injustice, inequality, or isolation. Liberation Mass is about practicing freedom, care, and mutual aid together, right now.
+Because too many systems hold people back. Liberation Mass is about practicing freedom, care, and mutual aid together in everyday ways.
 
 ### ❓ Is it political?
 
-Everything touches politics because politics shape our lives. But Liberation Mass isn’t a campaign or a rally. It’s about community, care, and dignity — things everyone deserves.
+Politics shape our lives, but this is not a campaign or a rally. It’s about connection, dignity, and care — things everyone deserves.
 
-### ❓ What if I disagree with something said or done?
+### ❓ What if I disagree with something?
 
-That’s okay. We expect differences of opinion. The key is to approach disagreements with respect and curiosity, not hostility. Dialogue is welcome as long as it honors consent and safety. *(See [Accessibility & Safety](#5-accessibility--safety) for conflict resolution.)*
+Disagreement is expected. The key is to engage respectfully. Dialogue is welcome when it honors consent and safety.
 
 ### ❓ Why should I come?
 
-Because you’ll find connection, care, and joy. Because it’s a chance to share your gifts and learn from others. Because in a world that can feel isolating, we need spaces to come together and practice something better.
+Because it’s a chance to find connection, share gifts, and learn from others. In a world that often feels isolating, this is a place to practice something better.
 
 ### ❓ What values guide Liberation Mass?
 
-* **Consent & Dignity** — everyone has the right to safety and respect.
-* **Mutual Aid** — sharing what we have to meet each other’s needs.
-* **Decentralization** — no permanent leaders; roles rotate.
-* **Accountability** — harm is named and addressed, not ignored.
-* **Creativity** — art, ritual, and play are central to connection.
+* **Consent & Dignity** — safety and respect for all.
+* **Mutual Aid** — sharing resources to meet needs.
+* **Decentralization** — no fixed leaders; rotating roles.
+* **Accountability** — harm is addressed, not ignored.
+* **Creativity** — art and play are central to connection.
 
 ---
 
@@ -107,19 +110,19 @@ Because you’ll find connection, care, and joy. Because it’s a chance to shar
 
 ### ❓ Will there be food? What if I have dietary needs?
 
-Food is often part of the gathering — usually potluck-style or simple shared meals. We aim for inclusivity: labeling food, offering vegan and allergen-friendly options, and encouraging people to bring what they can eat and share. No one is excluded if they can’t bring food. *(See [Participation](#2-participation) for cost details.)*
+Food is common but optional. Potlucks, shared snacks, or meals often happen. We encourage labeling dishes and including vegan or allergen-friendly options, and encouraging people to bring what they can eat and share. No one is excluded if they can’t bring food.
 
-### ❓ Is it family-friendly? Can kids come?
+### ❓ Is it family-friendly?
 
-Yes! Children and families are welcome. We encourage creating spaces where kids can play, learn, and contribute. Some events may include activities designed with young people in mind.
+Not always. Some gatherings may welcome kids, but others may not be appropriate — especially if people choose expressive or minimal clothing, or if the flow involves topics not suitable for children. Communities may decide to create **separate family-friendly versions** of Liberation Mass where kids can participate safely. Check the specific event notes if you’re considering bringing children.
 
 ### ❓ What about alcohol or substances?
 
-Each community decides. Many gatherings are alcohol-free to keep the space welcoming and safe for all ages. Substance use should never compromise safety, consent, or accessibility. *(See [Accessibility & Safety](#5-accessibility--safety) for rules on safety.)*
+Each group decides. Many keep gatherings alcohol-free so they’re safe and welcoming for most. Safety and consent always come first. *(See [Accessibility & Safety](#5-accessibility--safety) for rules on safety.)*
 
-### ❓ Can I bring food from a store instead of cooking?
+### ❓ Can I bring store-bought food?
 
-Of course. Homemade food is wonderful, but store-bought snacks, fruit, or drinks are just as welcome.
+Of course. Homemade or store-bought are equally welcome.
 
 ---
 
@@ -127,52 +130,41 @@ Of course. Homemade food is wonderful, but store-bought snacks, fruit, or drinks
 
 ### ❓ Is it accessible?
 
-We strive for accessibility. That includes:
+We aim for accessibility. Notes on location (ramps, restrooms, etc.) are shared when possible. Quiet spaces, captions, and adjustments are encouraged. Let organizers know your needs.
+*(See [Safety](README.md#-safety) for more.)*
 
-* Publishing access notes for each gathering (stairs, ramps, restrooms, etc.)
-* Providing captions or interpreters when possible
-* Offering quiet/chill spaces
-* Adjusting rituals or flows so everyone can participate comfortably
-  If you have access needs, we invite you to let organizers know in advance.
+### ❓ How is safety handled?
 
-### ❓ How do you make sure the space is safe?
-
-Safety is a priority. We set clear boundaries: consent, dignity, and respect are non-negotiable. If harm occurs, we practice accountability and conflict resolution, aiming for repair rather than punishment. Stewards may be present to help hold the space. *(See also [Community & Values](#3-community--values).)*
+Consent and respect are non-negotiable. If harm happens, we address it directly, aiming for repair rather than punishment. Stewards or volunteers may be present for support.
 
 ### ❓ What if someone behaves badly?
 
-If someone causes harm or breaks consent, they may be asked to leave. Repeated or serious harm is not tolerated. Safety of the group comes first.
+They may be asked to leave. Repeated or serious harm is not tolerated. Group safety comes first.
 
 ### ❓ Are there quiet spaces?
 
-Yes, we aim to provide areas for rest and decompression. Participation is opt-in, and breaks are always encouraged. *(See [Basics](#1-basics) for what happens at gatherings.)*
+Yes, many groups create areas for rest or sensory breaks.
 
 ---
 
 ## 6. Hosting & Growth
 
-### ❓ Can I host a Liberation Mass in my community?
+### ❓ Can I host a Liberation Mass?
 
-Yes! Liberation Mass is meant to be decentralized. Anyone can start one, as long as the core principles are followed: consent, safety, dignity, mutual aid, and decentralization. We encourage sharing guides, flows, and resources so local groups can adapt them.
+Yes. Anyone can host, as long as core principles are followed: consent, safety, dignity, mutual aid, and decentralization.
+*(See [Hosting & Growth in the README](README.md#-how-to-get-involved).)*
 
-### ❓ How do I get involved beyond attending?
+### ❓ How can I contribute?
 
-There are many ways:
+Bring food or art, offer a skillshare, help with setup or accessibility, spread the word, or volunteer as a steward.
 
-* Bring food, art, or a song to share
-* Offer a skillshare or short teaching
-* Help with setup, cleanup, or accessibility
-* Spread the word to friends and community
-* Volunteer as a Steward to help hold space safely *(See [Accessibility & Safety](#5-accessibility--safety).)*
-  Participation can be small or large — it all matters.
+### ❓ How do I connect with others?
 
-### ❓ How do I connect with others doing this elsewhere?
+Check the repo, zines, or community spaces where groups share updates. Ask organizers at your local gathering.
 
-Check the repo, zines, or community spaces where Liberation Mass is shared. Many groups post updates online or link up through commons-based networks. Ask organizers at your local gathering for ways to plug in.
+### ❓ What resources are available?
 
-### ❓ What resources are available for new hosts?
-
-Guides, templates, and sample flows are included in the Liberation Mass repo. Experienced organizers are encouraged to share their notes and help mentor new hosts.
+Guides, sample flows, and hosting notes are provided in the repo. Organizers are encouraged to share what works for them.
 
 ---
 
@@ -180,26 +172,29 @@ Guides, templates, and sample flows are included in the Liberation Mass repo. Ex
 
 ### ❓ What’s the long-term vision?
 
-The goal is to weave a network of liberatory spaces where people can come together regularly to share dignity, care, and joy. Over time, this can grow into stronger mutual aid, deeper relationships, and resilience in the face of oppressive systems.
+To weave a network of spaces where people come together to share dignity, care, and joy. Over time, this builds stronger mutual aid and resilience.
 
-### ❓ How is Liberation Mass different from a religion, cult, or political group?
+### ❓ How is it different from a religion, cult, or political group?
 
-* **Not religion:** no required beliefs or doctrines.
-* **Not cult:** no secrecy, coercion, or control; participation is voluntary and transparent.
-* **Not a political party:** no endorsements, elections, or candidates.
-  It is simply a practice of gathering in liberatory, inclusive ways. *(See [Community & Values](#3-community--values).)*
+* **Not religion:** no required beliefs.
+* **Not cult:** no secrecy, coercion, or control.
+* **Not political party:** no endorsements or candidates.
+
+It’s simply a practice of gathering in inclusive, liberatory ways.
+*(See [Objections FAQ](FAQ-Objections.md).)*
 
 ### ❓ Where can I learn more?
 
-Start with the Liberation Mass repo, where resources, zines, and guides are shared. New materials and stories are added as the practice grows. *(See also the [Objections FAQ](FAQ-Objections.md) for myth-busting.)*
+See the [README](README.md) for a full overview, plus guides, zines, and stories.
+*(See also the [Objections FAQ](FAQ-Objections.md).)*
 
 ### ❓ How do you measure success?
 
-Not in numbers or money, but in connection, joy, and care. If people leave feeling seen, respected, and nourished, that is success.
+By connection and care, not numbers or money. If people leave feeling seen and nourished, that’s success.
 
 ### ❓ What if I don’t agree with everything?
 
-You don’t have to. Liberation Mass is not about total agreement; it’s about shared practice. We expect diversity of thought and experience. *(See [Participation](#2-participation) for opt-in approach.)*
+You don’t have to. Liberation Mass is about shared practice, not uniform belief.
 
 ---
 
@@ -207,6 +202,6 @@ You don’t have to. Liberation Mass is not about total agreement; it’s about 
 
 * **Main vibe:** Welcoming, inclusive, down-to-earth.
 * **Tagline:** “Come as you are. Leave with more connection.”
-* **Boundaries:** Consent, safety, and respect are required.
-* **Participation:** Always optional, never forced.
-* **Hosting:** Anyone can start one, following the principles.
+* **Boundaries:** Consent, safety, and respect.
+* **Participation:** Always optional.
+* **Hosting:** Anyone can host, following principles.
