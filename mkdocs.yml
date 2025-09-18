@@ -1,0 +1,36 @@
+site_name: Liberation Mass
+site_description: "A welcoming, community-run gathering where people care for each other, learn, and celebrate."
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: black
+      accent: deep purple
+nav:
+  - Home: index.md
+  - Principles: principles.md
+  - Liturgy: liturgy.md
+  - Structure: structure.md
+  - Roles: roles.md
+  - Commons: agenda-commons.md
+  - Rite: agenda-rite.md
+  - Working Groups: working-groups.md
+  - Federation: federation.md
+  - Safety:
+      - Overview: safety.md
+      - Access Notes Template: safety/access-notes-template.md
+      - Aftercare Guide: safety/aftercare-guide.md
+  - Modules:
+      - Overview: modules/README.md
+      - Science & Reality Rite: modules/science-rite.md
+  - Culture: culture.md
+  - Glossary: glossary.md
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.emoji
+plugins:
+  - search
