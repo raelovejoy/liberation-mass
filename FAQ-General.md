@@ -1,6 +1,6 @@
 # Liberation Mass — FAQ (General Audience)
 
-**Looking for responses to hostile or skeptical questions (e.g., conservative/right-wing objections)? See the [Objections FAQ](FAQ-OBJECTIONS.md).**
+**Looking for responses to hostile or skeptical questions (e.g., conservative/right-wing objections)? See the [Objections FAQ](FAQ-Objections.md).**
 
 This document answers common questions from people who are curious about Liberation Mass but may not be familiar with its language or ideas.
 
