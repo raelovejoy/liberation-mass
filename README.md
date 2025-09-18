@@ -1,4 +1,4 @@
-# Liberation Mass
+# Liberation Mass ✱
 
 *A living, open-source ritual and commons of solidarity, healing, and freedom.*
 
