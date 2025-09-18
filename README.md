@@ -11,6 +11,31 @@ For quick questions, see the FAQs:
 
 ---
 
+## 📑 Index
+
+* [🌑 What is Liberation Mass?](#-what-is-liberation-mass)
+* [🦋 Principles](#-principles)
+* [🕸️ Structure](#-structure)
+
+  * [Commons (Coalition mode)](#commons-coalition-mode)
+  * [Rite (Mass mode)](#rite-mass-mode)
+  * [Cycle](#cycle)
+* [🦇 Roles & Rotations](#-roles--rotations)
+* [🌱 Spaces](#-spaces)
+* [🛡️ Safety](#-safety)
+* [📜 Agendas](#-agendas)
+
+  * [Commons Agenda](#commons-agenda)
+  * [Rite Agenda](#rite-agenda)
+* [🔮 Modules](#-modules)
+* [📖 Glossary](#-glossary)
+* [🕯️ No Leaders, Only Stewards](#-no-leaders-only-stewards)
+* [🌌 Liberation Mass in the Living Spectrum](#-liberation-mass-in-the-living-spectrum)
+* [🌍 How to Get Involved](#-how-to-get-involved)
+* [📜 License & Contributions](#-license--contributions)
+
+---
+
 ## 🌑 What is Liberation Mass?
 
 Liberation Mass has **two faces**:
