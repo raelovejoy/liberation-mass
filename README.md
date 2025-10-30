@@ -241,7 +241,7 @@ Liberation Mass belongs to everyone. Take what you need, leave what you can.
 
 ## 📜 License & Contributions
 
-* **License:** [CC0 1.0](LICENSE) — public domain. Take, remix, share, and build freely.
+* **License:** [CC0 1.0](LICENSE) — public domain. Take, remix, share, and build freely. All rights liberated.
 * **Contributions:** welcome via Issues and PRs. See [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE\_OF\_CONDUCT.md](CODE_OF_CONDUCT.md).
 * **Sensitive info:** don’t post names, doxxing, or security details. See [SENSITIVE\_INFO\_POLICY.md](SENSITIVE_INFO_POLICY.md).
 
